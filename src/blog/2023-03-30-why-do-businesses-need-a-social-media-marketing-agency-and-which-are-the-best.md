@@ -4,7 +4,7 @@ description: "How to find a marketing agecy "
 author: Ananya Chauhan
 date: 2020-07-14T07:32:29.571Z
 tags:
-  - post
+  - featured
 image: /assets/blog/white-removebg-preview.png
 imageAlt: Engage Sphere
 ---
